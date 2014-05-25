@@ -17,3 +17,7 @@ I print all of my parts with a 0.4mm nozzle, three perimeters, 0.25mm layer heig
 I print the face parts with the faces pointing up and the body laying on its back, in combination with support using Cura.  You may need to reorient the parts before printing so they are facing in the appropriate direction...  
 
 NOTE: All parts were modeled in Inventor and STLs were exported for printing.
+
+License: CC BY-NC-SA 4.0
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
